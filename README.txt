@@ -1,6 +1,6 @@
 === Korapay Payment Forms ===
 Contributors: Korapay
-Tags: korapay, payment form, payment gateway, bank account, credit card, debit card, nigeria, international, mastercard, visa
+Tags: Korapay, payment form, payment gateway, bank account, credit card, debit card, nigeria, international, mastercard, visa
 Requires at least: 4.4
 Tested up to: 4.8
 Requires PHP: 5.4
@@ -14,7 +14,7 @@ Accept Credit card, Debit card and Bank account payment directly on your WordPre
 
 == Description ==
 
-Signup for a korapay account at https://korapay.com
+Signup for a Korapay account at https://Korapay.com
 
 
 Korapay is available in:

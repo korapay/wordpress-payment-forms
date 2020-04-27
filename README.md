@@ -1,19 +1,19 @@
-# korapay Payment Forms
+# Korapay Payment Forms
 
-- **Contributors:** Korapay, Olokor Divine
-- **Tags:** korapay, payment form, payment gateway, bank account, credit card, debit card, nigeria, international, mastercard, visa
+- **Contributors:** Korapay
+- **Tags:** Korapay, payment form, payment gateway, bank account, credit card, debit card, nigeria, international, mastercard, visa
 
-Take donations and payments for services on your WordPress site using korapay.
+Take donations and payments for services on your WordPress site using Korapay.
 
 ## Description
 
-Accept Credit card, Debit card and Bank account payment directly on your WordPress site with the korapay payment gateway.
+Accept Credit card, Debit card and Bank account payment directly on your WordPress site with the Korapay payment gateway.
 
 #### Take donations and payments easily and directly on your site
 
-Signup for an account [here](https://korapay.com)
+Signup for an account [here](https://Korapay.com)
 
-korapay is available in:
+Korapay is available in:
 
 - **Nigeria**
 
@@ -23,11 +23,11 @@ korapay is available in:
 
 - Login to your WordPress Dashboard.
 - Click on "Plugins > Add New" from the left menu.
-- In the search box type **korapay Payment Forms**.
-- Click on **Install Now** on **korapay Payment Forms** to install the plugin on your site.
+- In the search box type **Korapay Payment Forms**.
+- Click on **Install Now** on **Korapay Payment Forms** to install the plugin on your site.
 - Confirm the installation.
 - Activate the plugin.
-- Go to "korapay > Settings" from the left menu to configure the plugin.
+- Go to "Korapay > Settings" from the left menu to configure the plugin.
 
 ### Manual Installation
 
@@ -35,13 +35,13 @@ korapay is available in:
 - Login to your WordPress Admin. Click on "Plugins > Add New" from the left menu.
 - Click on the "Upload" option, then click "Choose File" to select the zip file you downloaded. Click "OK" and "Install Now" to complete the installation.
 - Activate the plugin.
-- Go to "korapay > Settings" from the left menu to configure the plugin.
+- Go to "Korapay > Settings" from the left menu to configure the plugin.
 
 For FTP manual installation, [check here](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 ### Configure the plugin
 
-To configure the plugin, go to **korapay > Settings** from the left menu.
+To configure the plugin, go to **Korapay > Settings** from the left menu.
 
 - **Pay Button Public Key** - Enter your public key which can be retrieved from "API Integrations" page on your korapay account dashboard.
 - **Success Redirect URL** - (Optional) The URL the user should be redirected to after a successful payment. Enter a full url (with 'http'). Default: "".
@@ -91,8 +91,8 @@ With attributes and button text: _email_, _amount_
 
 ## Transaction List
 
-All the payments made through the forms to korapay can be accessed on **korapay > Transactions** page.
+All the payments made through the forms to korapay can be accessed on **Korapay > Transactions** page.
 
 ## Disbursement
 
-All the payments made through the forms from korapay to customers can only be accessed on your korapay merchant dashboard.
+All the payments made through the forms from korapay to customers can only be accessed on your Korapay merchant dashboard.
