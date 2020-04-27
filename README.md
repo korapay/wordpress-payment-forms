@@ -1,7 +1,7 @@
 # Korapay Payment Forms
 
 - **Contributors:** Korapay
-- **Tags:** Korapay, payment form, payment gateway, bank account, credit card, debit card, nigeria, international, mastercard, visa
+- **Tags:** Korapay, payment form, payment gateway, bank account, credit card, debit card, Nigeria, international, Mastercard, Visa
 
 Take donations and payments for services on your WordPress site using Korapay.
 
@@ -91,8 +91,8 @@ With attributes and button text: _email_, _amount_
 
 ## Transaction List
 
-All the payments made through the forms to korapay can be accessed on **Korapay > Transactions** page.
+All the payments made through the forms to Korapay can be accessed on **Korapay > Transactions** page.
 
 ## Disbursement
 
-All the payments made through the forms from korapay to customers can only be accessed on your Korapay merchant dashboard.
+All the payments made through the forms from Korapay to customers can only be accessed on your Korapay merchant dashboard.
