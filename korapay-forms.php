@@ -1,10 +1,10 @@
 <?php
   /*
   Plugin Name: Korapay Payment Forms
-  Plugin URI: http://Korapay.com/
+  Plugin URI: http://korapay.com/
   Description: Korapay payment gateway forms, accept local and international payments securely.
   Version: 1.0.0
-  Author: Korapay,Olokor Divine
+  Author: Korapay Developers
   Author URI: https://korapay.com
   Copyright: © 2019 Korapay Technology Solutions
    License:      GPL-2.0+

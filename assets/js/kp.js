@@ -16,7 +16,7 @@ if (form) {
 
 
 /**
- * Builds config object to be sent to GetPaid
+ * Builds config object to be sent to Korapay checkout modal
  *
  * @return object - The config object
  */
@@ -53,14 +53,14 @@ var processCheckout = function (opts) {
         amount: Number(opts.amount),
         reference: opts.reference,
         currency: "NGN",
-        channels: ['card', 'bank_transfer'],
-        customerName: `${opts.customer_firstname} ${opts.customer_lastname}`,
-        customerEmail: opts.customer_email,
+        customer:{
+          name: `${opts.customer_firstname} ${opts.customer_lastname}`,
+          email:  opts.customer_email
+        },
         onClose: function () {
 
         },
         onSuccess: function (data) {
-
             const res = {
                 ...data,
                 status: 'success',

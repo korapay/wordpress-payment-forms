@@ -148,7 +148,7 @@
       }
 
       /**
-       * Checks if the loggedin user email should be used
+       * Checks if the loggedIn user email should be used
        *
        * @param  array $attr attributes from shortcode
        *
