@@ -184,9 +184,6 @@
        */
       private function _fetchTransaction( $kp_ref, $sckey ) {
 
-
-        print_r($kp_ref);
-        print_r($sckey);
         $url = $this->api_base_url . '/api/v1/transactions/'.$kp_ref;
         $headers = array( 
         'Authorization' => 'Bearer '. $sckey,
@@ -200,10 +197,7 @@
     
 
         $response = wp_remote_post( $url, $args );
-        print_r($response);
         $result = wp_remote_retrieve_response_code( $response );
-        print_r($result);
-
         if( $result === 200 ){
           return wp_remote_retrieve_body( $response );
         }
