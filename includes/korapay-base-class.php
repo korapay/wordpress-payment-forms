@@ -78,7 +78,7 @@
         }
 
         if ($admin_settings->get_option_value( 'go_live' ) === 'yes' ) {
-          $this->api_base_url = 'https://gateway.korapay.com/merchant';
+          $this->api_base_url = 'https://api.korapay.com/merchant';
         }
 
       }
@@ -152,8 +152,6 @@
 
           }
         $redirect_url_key = $status === 'success' ? 'success_redirect_url' : 'failed_redirect_url';
-
-        // echo json_encode( array( 'status' => $status, 'redirect_url' => $admin_settings->get_option_value( $redirect_url_key ) ) );
 
       echo json_encode( array( 'status' => $status, 'redirect_url' => $admin_settings->get_option_value( $redirect_url_key ) ) );
 
